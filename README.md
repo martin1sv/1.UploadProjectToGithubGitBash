@@ -3,6 +3,6 @@ Added one line here
 WE wrote one line here... conflict on the way!
 We are goint to make conflicts..not a good thing tho
 
-
+And changes again...
 
 So it should be resolved..
